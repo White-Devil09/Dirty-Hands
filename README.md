@@ -13,5 +13,9 @@ This repository contains some crazy codes
 
 For using [contious.py](https://github.com/White-Devil09/Dirty-Hands/blob/master/contious.py) please install pyautogui by typing command .
 - $ pip install pyautogui 
--- or
+
+
+ or
+
+
 - $ pip3 install pyautogui
