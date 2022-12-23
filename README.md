@@ -10,6 +10,8 @@ This repository contains some crazy codes
 - [contious.py](https://github.com/White-Devil09/Dirty-Hands/blob/master/contious.py) : Mass message spammer.
 - [fork.c](https://github.com/White-Devil09/Dirty-Hands/blob/master/fork.c) : fork bomb in C lang.
 - [fork.cpp](https://github.com/White-Devil09/Dirty-Hands/blob/master/fork.cpp) : fork bomb in C++ lang.
+- [thread.cpp](https://github.com/White-Devil09/Dirty-Hands/blob/master/thread.cpp) : demonstration of multi thread working in cpp.
+
 
 For using [contious.py](https://github.com/White-Devil09/Dirty-Hands/blob/master/contious.py) please install pyautogui by typing command .
 - $ pip install pyautogui 
