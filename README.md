@@ -12,6 +12,6 @@ This repository contains some crazy codes
 - [fork.cpp](https://github.com/White-Devil09/Dirty-Hands/blob/master/fork.cpp) : fork bomb in C++ lang.
 
 For using [contious.py](https://github.com/White-Devil09/Dirty-Hands/blob/master/contious.py) please install pyautogui by typing command .
-$ pip install pyautogui 
+- $ pip install pyautogui 
 or
-$ pip3 install pyautogui
+- $ pip3 install pyautogui
