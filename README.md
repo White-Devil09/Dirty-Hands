@@ -13,7 +13,7 @@ This repository contains some crazy codes
 - [thread.cpp](https://github.com/White-Devil09/Dirty-Hands/blob/master/thread.cpp) : demonstration of multi thread working in cpp.
 
 
-For using [contious.py](https://github.com/White-Devil09/Dirty-Hands/blob/master/contious.py) please install pyautogui by typing command . Also keep the file [animal.txt](https://github.com/White-Devil09/Dirty-Hands/blob/master/animal.txt) in the same folder/directory.
+For using [contious.py](https://github.com/White-Devil09/Dirty-Hands/blob/master/contious.py) please install pyautogui by typing command . Also keep the file [animal.txt](https://github.com/White-Devil09/Dirty-Hands/blob/master/animals.txt) in the same folder/directory.
 - $ pip install pyautogui 
 
 
