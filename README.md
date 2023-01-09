@@ -10,6 +10,7 @@ This repository contains some crazy codes
 - [contious.py](https://github.com/White-Devil09/Dirty-Hands/blob/master/contious.py) : Mass message spammer.
 - [fork.c](https://github.com/White-Devil09/Dirty-Hands/blob/master/fork.c) : fork bomb in C lang.
 - [fork.cpp](https://github.com/White-Devil09/Dirty-Hands/blob/master/fork.cpp) : fork bomb in C++ lang.
+- [fork.sh](https://github.com/White-Devil09/Dirty-Hands/blob/master/fork.sh) : fork bomb in bash.
 - [thread.cpp](https://github.com/White-Devil09/Dirty-Hands/blob/master/thread.cpp) : demonstration of multi thread working using C++.
 - [CSP.cpp](https://github.com/White-Devil09/Dirty-Hands/blob/master/CSP.cpp) : demonstration of critical section problem using C++.
 
